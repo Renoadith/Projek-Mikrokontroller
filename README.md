@@ -1,6 +1,5 @@
 # Projek-Mikrokontroller
-Judul projek "Sistem Pelatihan Audio Interaktif untuk Olahraga"
-
+Judul projek "Sistem Pelatihan Audio Interaktif untuk Olahraga" /n
 
 Pembagian Jobdesk :
 1. Programmer (Reno_048 dan Krsina_035)
