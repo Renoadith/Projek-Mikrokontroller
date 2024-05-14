@@ -26,16 +26,16 @@ Tampak Samping
    e. Mp3 player YX5300  
    f. Arduino uno  
    
-3. Software
-   a. Arduino ide
-   b. Microdoft visio
-   c.Fritzing
-   d. Audacity
+2. Software  
+   a. Arduino ide  
+   b. Microdoft visio  
+   c.Fritzing  
+   d. Audacity  
    
-4. Alat
-   a. Solder
-   b. Timah solder
-   c. Kabel jumper
-   d. Kabel usb A to B
-   e. Obeng
+3. Alat  
+   a. Solder  
+   b. Timah solder  
+   c. Kabel jumper  
+   d. Kabel usb A to B  
+   e. Obeng  
 --
