@@ -18,19 +18,13 @@ Tampak Samping
 
 ---
 ## List Komponen
-1. Hardware
-
-   a. Oled 128x64
-   
-   b. Sensor suara MAX4466
-   
-   c. Adaptor 9V/1A
-   
-   d. Speaker subwoofer
-   
-   e. Mp3 player YX5300
-   
-   f. Arduino uno
+1. Hardware  
+   a. Oled 128x64  
+   b. Sensor suara MAX4466  
+   c. Adaptor 9V/1A  
+   d. Speaker subwoofer  
+   e. Mp3 player YX5300  
+   f. Arduino uno  
    
 3. Software
    a. Arduino ide
