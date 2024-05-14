@@ -40,14 +40,15 @@ Tampak Samping
    e. Obeng  
 ---
 ## Rancangan sistem  
-Blok Diagram
+Blok Diagram  
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/6c8703ef-b367-42dd-8687-e96c65d7702b)  
 
-Rangkaian Alat
+Rangkaian Alat  
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/5622441b-f24e-4744-9adb-80e3fa85a4f7)  
 
-Gambaran Hasil Alat
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/eb14454d-9982-453c-a627-cdea191b442e)
+Gambaran Hasil Alat  
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/05955dc5-4233-4744-b59c-b1ed3be957ab)
+
 --
 
 
