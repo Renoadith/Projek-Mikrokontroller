@@ -1,5 +1,4 @@
 # Rancang Bangun Alat Pendeteksi Kebisingan Berbasis Sensor untuk Analisis Lingkungan Suara
-![image]![Uploading Blue Modern Audio Speaker Desktop Prototype.png…]()
 
 Pembagian Jobdesk :
 1. Programmer (Reno_048 dan Krsina_035)
