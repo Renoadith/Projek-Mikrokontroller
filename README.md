@@ -1,4 +1,5 @@
 # Rancang Bangun Alat Pendeteksi Kebisingan Berbasis Sensor untuk Analisis Lingkungan Suara
+https://github.com/Renoadith/Projek-Mikrokontroller/issues/10#issuecomment-2109133530
 
 Pembagian Jobdesk :
 1. Programmer (Reno_048 dan Krsina_035)
