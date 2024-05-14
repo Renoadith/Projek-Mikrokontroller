@@ -9,10 +9,10 @@ Pembagian Jobdesk :
 ---
 ## Desain 3D
 
-Tampak Depan
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/cd8f0399-5477-43ad-94a6-99c94dabc76f)
+Tampak Depan  
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/569f2e92-634f-4d66-a06b-abaaf10e7577)
 
-Tampak Samping
+Tampak Samping  
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/a0962f13-eeed-4fc2-9eb1-a15372193779)
 
 ---
