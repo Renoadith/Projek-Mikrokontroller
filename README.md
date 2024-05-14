@@ -18,26 +18,38 @@ Tampak Samping
 ---
 ## List Komponen
 1. Hardware  
-   a. Oled 128x64  
-   b. Sensor suara MAX4466  
-   c. Adaptor 9V/1A  
-   d. Speaker subwoofer  
-   e. Mp3 player YX5300  
-   f. Arduino uno  
+   a. LCD  
+   b. Sensor suara KY 038  
+   c. Baterai  
+   d. Speaker subwoofer   
+   e. Arduino uno  
    
 2. Software  
    a. Arduino ide  
    b. Microdoft visio  
-   c.Fritzing  
+   c. Fritzing  
    d. Audacity  
+   e. Inventor  
+   f. Eagle  
    
-3. Alat  
+4. Alat  
    a. Solder  
    b. Timah solder  
    c. Kabel jumper  
-   d. Kabel usb A to B  
+   d. Breadboard  
    e. Obeng  
 ---
-## Rancangan sistem
+## Rancangan sistem  
+Blok Diagram
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/6c8703ef-b367-42dd-8687-e96c65d7702b)  
+
+Rangkaian Alat
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/5622441b-f24e-4744-9adb-80e3fa85a4f7)  
+
+Gambaran Hasil Alat
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/eb14454d-9982-453c-a627-cdea191b442e)
+--
+
+
 
 
