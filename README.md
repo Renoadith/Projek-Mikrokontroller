@@ -8,7 +8,6 @@ Pembagian Jobdesk :
 3. Desainer (Angel_058 dan Rahma_037)
 ---
 ## Desain 3D
-https://github.com/Renoadith/Projek-Mikrokontroller/issues/10#issuecomment-2109115256
 
 Tampak Depan
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/cd8f0399-5477-43ad-94a6-99c94dabc76f)
@@ -38,4 +37,7 @@ Tampak Samping
    c. Kabel jumper  
    d. Kabel usb A to B  
    e. Obeng  
---
+---
+## Rancangan sistem
+
+
