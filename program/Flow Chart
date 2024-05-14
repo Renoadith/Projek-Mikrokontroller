@@ -1,0 +1,10 @@
+1. Masuk pada microphone sensor (A0)
+2. Baca level suara dari mikrofon dan simpan ke variabel `soundLevel`
+3. Jika level suara lebih besar dari batas kebisingan (`threshold`), maka:
+	* Nyalakan LED (`ledPin`) dan speaker (`speakerPin`)
+	* Tampilkan level suara pada LCD (`lcdPin`) menggunakan fungsi `displayLCD()`
+4. Jika level suara tidak lebih besar dari batas kebisingan, maka:
+	* Matikan LED (`ledPin`) dan speaker (`speakerPin`)
+	* Tampilkan level suara pada LCD (`lcdPin`) menggunakan fungsi `displayLCD()`
+
+Note: Pastikan Anda telah menghubungkan microphone sensor, LED, speaker, dan LCD dengan pin yang sesuai. Juga pastikan Anda telah mengkonfigurasi pin yang sesuai di dalam program Arduino Nano.
