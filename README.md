@@ -48,6 +48,13 @@ Proyek ini bertujuan untuk membuat alat pendeteksi kebisingan berbasis sensor un
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/cd7e1ab4-4225-4310-a52a-e3099eb8a6b9)
 
 ---
+## Sistem Auido
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/31788840-6017-4436-a93f-9abfd1e0c013)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/fb3e670c-983c-4cfe-8e1b-df53758e2d61)
+
+---
+
+
 
 
 
