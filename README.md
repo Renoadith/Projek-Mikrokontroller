@@ -2,11 +2,8 @@
 
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/350eb0ba-c08e-4825-985c-01733abdec70)
 
-Pembagian Jobdesk :
-1. Programmer (Reno_048 dan Krsina_035)
-2. Mekanik (Angger_044 dan Labib_058)
-3. Desainer (Angel_058 dan Rahma_037)
----
+Proyek ini bertujuan untuk membuat alat pendeteksi kebisingan berbasis sensor untuk menganalisis lingkungan suara. Alat ini akan menggunakan sensor suara (KY-037) untuk mendeteksi kebisingan di sekitarnya serta memberikan peringatan berbasis audio. Data yang dikumpulkan akan diolah oleh mikrokontroler Arduino Uno, dan hasilnya dapat berupa suara sebagai peringatan. Implementasi alat ini ditujukan pada lingkungan yang membutuhkan suasana hening seperti perpustakaan. Alat ini akan diletakkan pada setiap sudut atau kelompok meja agar bisa mencakup semua sisi lingkungan.
+
 ## Desain 3D
 
 Tampak Depan  
@@ -19,7 +16,7 @@ Tampak Samping
 ## List Komponen
 1. Hardware  
    a. LCD  
-   b. Sensor suara KY 038  
+   b. Sensor suara KY-038  
    c. Baterai  
    d. Speaker subwoofer   
    e. Arduino uno  
