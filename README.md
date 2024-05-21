@@ -40,8 +40,8 @@ Tampak Samping
 Blok Diagram  
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/6c8703ef-b367-42dd-8687-e96c65d7702b)  
 
-Rangkaian Alat  
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/5622441b-f24e-4744-9adb-80e3fa85a4f7)  
+Rangkaian Simulasi  
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/679242a9-427d-45c2-b041-636bb74f2652)
 
 Gambaran Hasil Alat  
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/05955dc5-4233-4744-b59c-b1ed3be957ab)
