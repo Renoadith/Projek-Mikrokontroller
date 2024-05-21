@@ -7,19 +7,22 @@ Proyek ini bertujuan untuk membuat alat pendeteksi kebisingan berbasis sensor un
 ## Desain 3D
 
 Tampak Depan  
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/569f2e92-634f-4d66-a06b-abaaf10e7577)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/d5b2a9d6-c811-4fef-9a2e-4920e594bcb9)
 
-Tampak Samping  
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/a0962f13-eeed-4fc2-9eb1-a15372193779)
+Tampak Dalam  
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/994ea9c4-0ea5-482f-b022-4bb330efa840)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/66d6a98e-4519-4dc4-9e2c-3d3088a595fd)
+
+
 
 ---
 ## List Komponen
 1. Hardware  
-   a. LCD  
-   b. Sensor suara KY-038  
+   a. Arduino UNO  
+   b. Sensor suara KY-037  
    c. Baterai  
    d. Speaker subwoofer   
-   e. Arduino uno  
+   e. LCD 16x2 + i2C  
    
 2. Software  
    a. Arduino ide  
@@ -29,21 +32,22 @@ Tampak Samping
    e. Inventor  
    f. Eagle  
    
-4. Alat  
+3. Alat  
    a. Solder  
    b. Timah solder  
    c. Kabel jumper  
    d. Breadboard  
    e. Obeng  
 ---
-## Rancangan sistem  
-Blok Diagram  
+## Blok Diagram  
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/6c8703ef-b367-42dd-8687-e96c65d7702b)  
 
-Rangkaian Simulasi  
+---
+## Rangkaian Simulasi  
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/679242a9-427d-45c2-b041-636bb74f2652)
 
-Gambaran Hasil Alat  
+---
+## Gambaran Hasil Alat  
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/05955dc5-4233-4744-b59c-b1ed3be957ab)
 
 ---
