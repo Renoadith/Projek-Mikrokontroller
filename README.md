@@ -47,8 +47,8 @@ Tampak Dalam
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/679242a9-427d-45c2-b041-636bb74f2652)
 
 ---
-## Gambaran Hasil Alat  
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/05955dc5-4233-4744-b59c-b1ed3be957ab)
+## Rangkaian Schematik
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/cd7e1ab4-4225-4310-a52a-e3099eb8a6b9)
 
 ---
 
