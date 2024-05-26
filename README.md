@@ -43,7 +43,9 @@ Link (menyusul)
 ---
 ## Rangkaian Simulasi  
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/85ca22a6-ed74-4b18-a4ad-6116f521a506)
-![video](https://github.com/Renoadith/Projek-Mikrokontroller/raw/main/Video/Simulasi%20software%20tinkercad%20(Alat%20pendeteksi%20kebisingan).mp4)
+https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/d6655e6e-e000-493f-b63a-1b9a3c249894
+
+
 
 ---
 ## Rangkaian Schematik
