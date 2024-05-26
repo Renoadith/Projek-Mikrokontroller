@@ -1,4 +1,4 @@
-# Rancang Bangun Alat Pendeteksi Kebisingan Berbasis Sensor untuk Analisis Lingkungan Suara
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/7ddcbcb2-2250-4af6-8184-d4bb4dfcc88b)# Rancang Bangun Alat Pendeteksi Kebisingan Berbasis Sensor untuk Analisis Lingkungan Suara
 
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/350eb0ba-c08e-4825-985c-01733abdec70)
 
@@ -42,7 +42,7 @@ Link (menyusul)
 
 ---
 ## Rangkaian Simulasi  
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/679242a9-427d-45c2-b041-636bb74f2652)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/85ca22a6-ed74-4b18-a4ad-6116f521a506)
 
 ---
 ## Rangkaian Schematik
