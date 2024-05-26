@@ -38,7 +38,7 @@ Link (menyusul)
    e. Obeng  
 ---
 ## Blok Diagram  
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/6c8703ef-b367-42dd-8687-e96c65d7702b)  
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/044f7e2e-e520-40c2-83e1-b7b0f8205fd9) 
 
 ---
 ## Rangkaian Simulasi  
