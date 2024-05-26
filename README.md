@@ -46,8 +46,10 @@ Link (menyusul)
 
 ---
 ## Rangkaian Schematik
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/a97f4502-3628-4457-9703-cdc21b20f050)
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/94d48f9f-2ff4-4685-98fb-ae19e223e82f)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/c88580ec-2b27-44fd-a577-7934d52eb0f1)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/8d4a1f71-460a-4c50-ac2c-bce17f3a6d7a)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/1ba611ad-98a0-4d11-b012-2c81b5424951)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/6534751c-41b9-42c2-aa92-39730f7b03ba)
 
 ---
 ## Sistem Auido
