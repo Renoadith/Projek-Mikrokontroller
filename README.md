@@ -18,19 +18,20 @@ Link (menyusul)
 1. Hardware  
    a. Arduino UNO  
    b. Sensor suara KY-037  
-   c. Baterai  
-   d. Speaker subwoofer   
-   e. LCD 16x2 + i2C  
+   c. Speaker subwoofer   
+   d. LCD 16x2 + i2C  
+   e. LED 5mm
+   f. GF1002-PAM8403 Stereo Audio Amplifier Module
    
 2. Software  
-   a. Arduino ide  
-   b. Microdoft visio  
-   c. Fritzing  
+   a. Arduino ide
+   b. HxD
    d. Audacity  
    e. Inventor  
-   f. Eagle  
+   f. Eagle
+   g. Visual Studio Code (VSC) 
    
-3. Alat  
+4. Alat  
    a. Solder  
    b. Timah solder  
    c. Kabel jumper  
