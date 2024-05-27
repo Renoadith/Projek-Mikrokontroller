@@ -20,7 +20,6 @@ Link (menyusul)
    b. Sensor suara KY-037  
    c. Speaker subwoofer   
    d. LCD 16x2 + i2C
- 
    e. LED 5mm
    f. GF1002-PAM8403 Stereo Audio Amplifier Module
    
@@ -32,7 +31,7 @@ Link (menyusul)
    f. Eagle
    g. Visual Studio Code (VSC) 
    
-4. Alat  
+5. Alat  
    a. Solder  
    b. Timah solder  
    c. Kabel jumper  
