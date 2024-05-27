@@ -11,7 +11,7 @@ Proyek ini bertujuan untuk membuat alat pendeteksi kebisingan berbasis sensor un
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/66d6a98e-4519-4dc4-9e2c-3d3088a595fd)
 
 Desain 3D diatas adalah gambaran dari hasil alat nanti dengan menentukukan ukuran, posisi komponen, dan file software jika ingin 3D print. Pengerjaan 3D desain ini menggunakan software Fusion 360  
-Link (menyusul)
+<a href="https://youtu.be/MYmIewiCJK0?si=Z88mito5nbMwKOmb">Desain 3D Alat Pendeteksi Kebisingan</a>
 
 ---
 ## List Komponen
