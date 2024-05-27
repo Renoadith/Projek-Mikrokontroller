@@ -57,8 +57,8 @@ Link (menyusul)
 ## Sistem Auido
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/31788840-6017-4436-a93f-9abfd1e0c013)
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/fb3e670c-983c-4cfe-8e1b-df53758e2d61)
+
 <a href="https://youtu.be/W0XZ7WrG6vU">Cara Rekaman Audio diri sendiri untuk dimasukkan pada program menggunakan Software Audacity dan HxD</a>
----
 
 
 
