@@ -44,9 +44,10 @@ Desain 3D diatas adalah gambaran dari hasil alat nanti dengan menentukukan ukura
 
 ---
 ## Rangkaian Simulasi  
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/85ca22a6-ed74-4b18-a4ad-6116f521a506)
-<a href="https://youtu.be/cqOJ23cZhoI?si=dtuSKsLPAU53A1Sa">Simulasi Software</a>  
-<a href="https://www.tinkercad.com/things/jV3vWOUGUW2-simulasi/editel">Tinkercad</a>
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/85ca22a6-ed74-4b18-a4ad-6116f521a506)  
+Simulasi untuk proyek alat pendeteksi kebisingan ini menggunakan web Tinkercad. Pemilihan web ini dikarenakan mudah diakses dan gratis, sehingga kalian semua bisa mencoba sendiri mensimulasikannya. Pada simulasi ini, kami hanya menggunakan rangkaian dengan garis besar saja, di mana input hanya menggunakan tombol tekan karena pada simulator sensor suara yang kami gunakan tidak tersedia. Untuk output, kami hanya menggunakan buzzer sebagai indikator suara, dan LCD hanya menandakan saat rangkaian aktif dan tidak.  
+Link video simulasi ==.> <a href="https://youtu.be/cqOJ23cZhoI?si=dtuSKsLPAU53A1Sa">Simulasi Software</a>  
+Link web simulasi ==> <a href="https://www.tinkercad.com/things/jV3vWOUGUW2-simulasi/editel">Tinkercad</a>
 
 ---
 ## Rangkaian Schematik
