@@ -136,6 +136,8 @@ Melakukan demonstrasi alat kepada pihak terkait, menunjukkan fungsionalitas dan 
 
 ## Dokumentasi
 
+#### MEKANIK
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/134272498/36655439-3542-4fa3-a202-5d4808781961)
 
 
 
