@@ -11,8 +11,11 @@ Proyek ini bertujuan untuk membuat alat pendeteksi kebisingan berbasis sensor un
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/ec05c7ae-f840-4222-9692-bf013c5a8df7)
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/3da72351-e29d-472a-8b1f-c3a4b2bfbd89)
 
-Desain 3D diatas adalah gambaran dari hasil alat nanti dengan menentukukan ukuran, posisi komponen, dan file software jika ingin 3D print. Pengerjaan 3D desain ini menggunakan software Fusion 360  
-<a href="https://youtu.be/MYmIewiCJK0?si=Z88mito5nbMwKOmb">Desain 3D Alat Pendeteksi Kebisingan</a>
+Desain 3D di atas merupakan gambaran akhir alat yang mencakup ukuran, posisi komponen, dan file perangkat lunak untuk pencetakan 3D. Desain ini dibuat menggunakan Fusion 360 karena kemudahan penggunaannya dan kemampuan desainer dalam mengoperasikan perangkat lunak tersebut. Fusion 360 memudahkan penentuan posisi komponen dengan presisi tinggi dan menawarkan fitur simulasi serta analisis struktural, memastikan alat dirancang sesuai spesifikasi dan dapat dicetak dengan mudah menggunakan printer 3D. Pemilihan Fusion 360 didasarkan pada efisiensi dan kemampuan desainernya, memastikan hasil akhir yang akurat dan optimal.
+  
+Link desain 3D (bagian dalam) ==> <a href="https://github.com/Renoadith/Projek-Mikrokontroller/blob/main/Desain/bagian%20dalam.step">Desain 3D (bagian dalam)</a>  
+Link desain 3D (bagian luar) ==> <a href="https://github.com/Renoadith/Projek-Mikrokontroller/blob/main/Desain/bagian%20luar.step">Desain 3D (bagian luar)</a>  
+Link video tutorial desain 3D ==> <a href="https://youtu.be/MYmIewiCJK0?si=Z88mito5nbMwKOmb">Video desain 3D</a>  
 
 ---
 ## List Komponen
@@ -40,7 +43,11 @@ Desain 3D diatas adalah gambaran dari hasil alat nanti dengan menentukukan ukura
    e. Obeng  
 ---
 ## Blok Diagram  
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/044f7e2e-e520-40c2-83e1-b7b0f8205fd9) 
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/044f7e2e-e520-40c2-83e1-b7b0f8205fd9)  
+Berikut adalah cara kerja sistem dari alat pendeteksi kebisingan :
+1. ...
+2. ...
+3. ...
 
 ---
 ## Rangkaian Simulasi  
@@ -48,15 +55,16 @@ Desain 3D diatas adalah gambaran dari hasil alat nanti dengan menentukukan ukura
   
 Simulasi untuk proyek alat pendeteksi kebisingan ini menggunakan web Tinkercad. Pemilihan web ini dikarenakan mudah diakses dan gratis, sehingga kalian semua bisa mencoba sendiri mensimulasikannya. Pada simulasi ini, kami hanya menggunakan rangkaian dengan garis besar saja, di mana input hanya menggunakan tombol tekan karena pada simulator sensor suara yang kami gunakan tidak tersedia. Untuk output, kami hanya menggunakan buzzer sebagai indikator suara, dan LCD hanya menandakan saat rangkaian aktif dan tidak.  
   
-Link video simulasi ==> <a href="https://youtu.be/cqOJ23cZhoI?si=dtuSKsLPAU53A1Sa">Simulasi Software</a>  
-Link web simulasi ==> <a href="https://www.tinkercad.com/things/jV3vWOUGUW2-simulasi/editel">Tinkercad</a>
+Link web simulasi ==> <a href="https://www.tinkercad.com/things/jV3vWOUGUW2-simulasi/editel">Simulasi software</a>
+Link video simulasi ==> <a href="https://youtu.be/cqOJ23cZhoI?si=dtuSKsLPAU53A1Sa">Video simulasi software</a>  
 
 ---
 ## Rangkaian Schematik
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/c88580ec-2b27-44fd-a577-7934d52eb0f1)
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/8d4a1f71-460a-4c50-ac2c-bce17f3a6d7a)
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/1ba611ad-98a0-4d11-b012-2c81b5424951)
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/6534751c-41b9-42c2-aa92-39730f7b03ba)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/c88580ec-2b27-44fd-a577-7934d52eb0f1)  
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/8d4a1f71-460a-4c50-ac2c-bce17f3a6d7a)  
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/1ba611ad-98a0-4d11-b012-2c81b5424951)  
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/6534751c-41b9-42c2-aa92-39730f7b03ba)  
+
 
 ---
 ## Sistem Auido
