@@ -18,7 +18,10 @@ Link desain 3D (bagian luar) ==> <a href="https://github.com/Renoadith/Projek-Mi
 Link video tutorial desain 3D ==> <a href="https://youtu.be/MYmIewiCJK0?si=Z88mito5nbMwKOmb">Video desain 3D</a>  
 
 ---
-## List Komponen
+## List Komponen  
+
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/2cf26869-1e96-484c-ab06-c0d4fe477a21)  
+  
 1. Hardware  
    a. Arduino UNO  
    b. Sensor suara KY-037  
@@ -83,7 +86,10 @@ Link audio (HxD) ==> <a href="https://github.com/Renoadith/Projek-Mikrokontrolle
 Link video tutorial audio ==> <a href="https://youtu.be/W0XZ7WrG6vU">Video audio</a>  
 
 ---
-## Proses Pengerjaan
+## Proses Pengerjaan  
+Berikut adalah prosesdur pengerjaan dari proyek alat pendeteksi kebisingan :
+1.
+
 
 ---
 ## Dokumentasi
