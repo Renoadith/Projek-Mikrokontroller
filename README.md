@@ -66,6 +66,7 @@ Link video simulasi ==> <a href="https://youtu.be/cqOJ23cZhoI?si=dtuSKsLPAU53A1S
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/6534751c-41b9-42c2-aa92-39730f7b03ba)  
 
 
+
 ---
 ## Sistem Auido
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/31788840-6017-4436-a93f-9abfd1e0c013)
