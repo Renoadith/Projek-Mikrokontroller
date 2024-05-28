@@ -46,6 +46,7 @@ Desain 3D diatas adalah gambaran dari hasil alat nanti dengan menentukukan ukura
 ## Rangkaian Simulasi  
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/85ca22a6-ed74-4b18-a4ad-6116f521a506)
 <a href="https://youtu.be/cqOJ23cZhoI?si=dtuSKsLPAU53A1Sa">Simulasi Software</a>
+<a href="https://www.tinkercad.com/things/jV3vWOUGUW2-simulasi/editel">Simulasi Software</a>
 
 ---
 ## Rangkaian Schematik
