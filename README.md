@@ -90,36 +90,48 @@ Link video tutorial audio ==> <a href="https://youtu.be/W0XZ7WrG6vU">Video audio
 Berikut adalah prosesdur pengerjaan dari proyek alat pendeteksi kebisingan :  
 #### 1.  Simulasi Perangkat Lunak:  
 Melakukan simulasi rangkaian menggunakan Tinkercad untuk memastikan semua komponen berfungsi dengan baik sebelum implementasi nyata.  
+
   
 #### 2. Pembuatan Desain 3D:  
 Menggunakan Fusion 360 untuk membuat desain 3D alat, mencakup ukuran, posisi komponen, dan file perangkat lunak untuk pencetakan 3D.  
+
   
 #### 3. Perancangan Skematik PCB:  
 Membuat desain skematik PCB menggunakan perangkat lunak Eagle, memastikan semua komponen terhubung dengan benar dan jalur dioptimalkan.  
 
+  
 #### 4. Pencetakan PCB:  
 Mengekspor desain skematik untuk pencetakan PCB, memastikan semua jalur dan koneksi sesuai dengan spesifikasi.  
+
   
 #### 5. Pengumpulan Semua Komponen:  
 Mengumpulkan semua komponen elektronik yang diperlukan berdasarkan desain skematik yang telah dibuat.  
+
   
 #### 6. Soldering Komponen:  
 Melakukan penyolderan komponen pada PCB yang telah dicetak sesuai dengan desain skematik.  
+
   
 #### 7. Rekaman dan Pengeditan Audio:  
 Merekam dan mengedit audio menggunakan Audacity dan HxD untuk membuat peringatan berbasis audio yang akan digunakan oleh alat.  
+
   
 #### 8.Uji Coba Alat:  
 Menguji alat secara menyeluruh untuk memastikan semua komponen bekerja sesuai rencana dan alat berfungsi dengan baik dalam mendeteksi kebisingan.  
+
   
 #### 9. Evaluasi dan Finishing:  
 Mengevaluasi kinerja alat, melakukan penyesuaian dan perbaikan jika diperlukan, dan menyelesaikan tahap akhir pengembangan alat.  
+
   
 #### 10. Demonstrasi Alat:  
 Melakukan demonstrasi alat kepada pihak terkait, menunjukkan fungsionalitas dan efektivitas alat pendeteksi kebisingan.  
+
   
 **Dengan mengikuti prosedur ini, proyek dapat diselesaikan secara sistematis dan efisien, memastikan setiap tahap dilakukan dengan cermat dan hasil akhirnya berkualitas tinggi.**
+
 ---
+
 ## Dokumentasi
 
 
