@@ -50,9 +50,13 @@ Link video tutorial desain 3D ==> <a href="https://youtu.be/MYmIewiCJK0?si=Z88mi
 ## Blok Diagram  
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/044f7e2e-e520-40c2-83e1-b7b0f8205fd9)  
 Berikut adalah cara kerja sistem dari alat pendeteksi kebisingan :
-1. ...
-2. ...
-3. ...
+1. Menyambungkan sumber listrik berupa adaptor ke arduino uno agar dapat dioperasikan
+2. Kemudianmenggunakan input berupa sensor Ky-037 (untuk menangkap suara)
+3. Arduino uno sebagai mikrokontroler dengan penggunaan software visual studio code untuk menyesuaikan program (batas maksimal suara yang ditangkap)
+4. Suara yang ditangkap oleh sensor suara (Ky-037) akan diteruskan dan diproses oleh arduino uno. Jika melewati batas maksimal dari program, output speaker, LED, dan LCD akan bekerja
+5. Speaker akan menghasilkan suara bertujuan untuk mengingatkan agar mengurangi kebisingan suara
+6. LED akan menyala sebagai indikator bahwa sedang terjadi kebisingan
+7. modul I2C akan memroses suara yang sudah ditangkap oleh sensor Ky-037, kemudian menampilkan besarnya nilai dari suara pada LCD
 
 ---
 ## Rangkaian Simulasi  
