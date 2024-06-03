@@ -22,7 +22,7 @@ Link video tutorial desain 3D ==> <a href="https://youtu.be/MYmIewiCJK0?si=Z88mi
 ---
 ## List Komponen  
 
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/2cf26869-1e96-484c-ab06-c0d4fe477a21)  
+![image](Komponen/IMG20240524234516 (1).jpg)  
   
 1. Hardware  
    a. Arduino UNO  
