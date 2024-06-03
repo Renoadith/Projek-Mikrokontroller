@@ -15,8 +15,8 @@ Proyek ini bertujuan mengembangkan alat pendeteksi kebisingan berbasis sensor un
   
 Desain 3D di atas merupakan gambaran akhir alat yang mencakup ukuran, posisi komponen, dan file perangkat lunak untuk pencetakan 3D. Desain ini dibuat menggunakan Fusion 360 karena kemudahan penggunaan dan kemampuan desainer. Fusion 360 memudahkan penentuan posisi komponen dengan presisi tinggi dan menawarkan fitur simulasi serta analisis struktural, memastikan alat sesuai spesifikasi teknis. Perangkat lunak ini juga memungkinkan evaluasi kekuatan dan daya tahan alat sebelum pencetakan, mengurangi risiko kesalahan dan memastikan kualitas. Dengan Fusion 360, desainer dapat mengoptimalkan tata letak komponen sesuai rancangan awal. Pemilihan Fusion 360 didasarkan pada efisiensi dan kemampuan desainer, membuat proses desain lebih cepat dan akurat. Desain akhir diekspor dalam format kompatibel dengan berbagai printer 3D, memastikan pencetakan mudah dan cepat. Penggunaan Fusion 360 memastikan desain 3D alat ini akurat, optimal, dan mendukung kelancaran proses produksi.
   
-Link desain 3D (bagian dalam) ==> <a href="">File desain 3D (bagian dalam)</a>  
-Link desain 3D (bagian luar) ==> <a href="https://github.com/Renoadith/Projek-Mikrokontroller/blob/main/Desain/3d%20desain.stl">File desain 3D (bagian luar)</a>  
+Link desain 3D (bagian dalam) ==> <a href="Desain/bagian dalam.stl">File desain 3D (bagian dalam)</a>  
+Link desain 3D (bagian luar) ==> <a href="Desain/bagian luar.stl">File desain 3D (bagian luar)</a>  
 Link video tutorial desain 3D ==> <a href="https://youtu.be/MYmIewiCJK0?si=Z88mito5nbMwKOmb">Video desain 3D</a>  
 
 ---
