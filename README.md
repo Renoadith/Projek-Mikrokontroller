@@ -155,4 +155,4 @@ Melakukan demonstrasi alat kepada pihak terkait, menunjukkan fungsionalitas dan 
 
 ## Flayer
 
-
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/blob/561b6ec2f84b6a9fe761c6ef16c30d173051581d/Desain/Flayer.jpeg)
