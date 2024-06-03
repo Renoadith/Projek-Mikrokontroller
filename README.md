@@ -8,10 +8,10 @@ Proyek ini bertujuan mengembangkan alat pendeteksi kebisingan berbasis sensor un
   
 ## Desain 3D
  
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/85a7ba89-321d-4ff1-a367-43d0feff3b33)
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/3f1941e4-73e7-47b8-a253-5c22787e46cd)
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/ec05c7ae-f840-4222-9692-bf013c5a8df7)
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/3da72351-e29d-472a-8b1f-c3a4b2bfbd89)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/49b72631-4169-4363-a4f5-2f5868484604)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/a25a9c53-3324-40b0-a35b-9acb642eea06)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/0af3ba8b-6d2c-47d8-b7cf-e3afe879404c)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/ee1e3859-b8b6-4b1e-9edf-ab9528a42f78)
   
 Desain 3D di atas merupakan gambaran akhir alat yang mencakup ukuran, posisi komponen, dan file perangkat lunak untuk pencetakan 3D. Desain ini dibuat menggunakan Fusion 360 karena kemudahan penggunaan dan kemampuan desainer. Fusion 360 memudahkan penentuan posisi komponen dengan presisi tinggi dan menawarkan fitur simulasi serta analisis struktural, memastikan alat sesuai spesifikasi teknis. Perangkat lunak ini juga memungkinkan evaluasi kekuatan dan daya tahan alat sebelum pencetakan, mengurangi risiko kesalahan dan memastikan kualitas. Dengan Fusion 360, desainer dapat mengoptimalkan tata letak komponen sesuai rancangan awal. Pemilihan Fusion 360 didasarkan pada efisiensi dan kemampuan desainer, membuat proses desain lebih cepat dan akurat. Desain akhir diekspor dalam format kompatibel dengan berbagai printer 3D, memastikan pencetakan mudah dan cepat. Penggunaan Fusion 360 memastikan desain 3D alat ini akurat, optimal, dan mendukung kelancaran proses produksi.
   
