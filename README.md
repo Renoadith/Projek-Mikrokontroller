@@ -18,11 +18,12 @@ Desain 3D di atas merupakan gambaran akhir alat yang mencakup ukuran, posisi kom
 Link desain 3D (bagian dalam) ==> <a href="Desain/bagian dalam.stl">File desain 3D (bagian dalam)</a>  
 Link desain 3D (bagian luar) ==> <a href="Desain/bagian luar.stl">File desain 3D (bagian luar)</a>  
 Link video tutorial desain 3D ==> <a href="https://youtu.be/MYmIewiCJK0?si=Z88mito5nbMwKOmb">Video desain 3D</a>  
+Link Thingiverse ==> <a href="https://www.thingiverse.com/thing:6647773">File Thingiverse</a>
 
 ---
 ## List Komponen  
 
-![image](Komponen/IMG20240524234516 (1).jpg)  
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/1b45c8dd-c293-4c40-a764-dd1ea6921e0d)
   
 1. Hardware  
    a. Arduino UNO  
@@ -78,6 +79,7 @@ Perangkaian skematik pada proyek ini adalah tahap desain untuk mencetak PCB, dib
   
 Link skematik ==> <a href="https://github.com/Renoadith/Projek-Mikrokontroller/blob/main/Schematik/Alat%20pendeteksi%20kebisingan.sch">File skematik</a>  
 Link board ==> <a href="https://github.com/Renoadith/Projek-Mikrokontroller/blob/main/Schematik/Alat%20pendeteksi%20kebisingan.brd">File board</a>  
+Link PCB jadi ==> <a href="https://github.com/Renoadith/Projek-Mikrokontroller/blob/22beea1315c3989351b3b410121d68c0fc71a857/dokumentasi/PCB.jpg">PCB jadi</a>  
 Link video tutorial skematik ==> <a href="https://youtu.be/qFakJmJQMaU?feature=shared">Video skematik</a>  
 
 ---
@@ -87,8 +89,8 @@ Link video tutorial skematik ==> <a href="https://youtu.be/qFakJmJQMaU?feature=s
   
 Perangkaian skematik pada proyek ini dirancang untuk mencetak PCB menggunakan perangkat lunak Eagle. Eagle dipilih karena kemudahan penggunaan dan keahlian desainer dalam perangkat lunak ini. Perangkat lunak ini memungkinkan perancangan skematik dengan presisi tinggi dan memudahkan routing jalur PCB. Desain yang dihasilkan memastikan semua komponen terhubung dengan benar dan layout PCB dioptimalkan. Hasil desain kemudian diekspor untuk pencetakan PCB, memastikan jalur dan koneksi sesuai spesifikasi. Dengan Eagle, desain yang efisien dan akurat siap untuk tahap produksi.
   
-Link audio (Audacity) ==> <a href="https://github.com/Renoadith/Projek-Mikrokontroller/blob/main/Program/AUDIO%20rekam">File auido</a>  
-Link audio (HxD) ==> <a href="https://github.com/Renoadith/Projek-Mikrokontroller/blob/main/Program/AUDIO%20rekam.raw">File auido</a>  
+Link audio (Audacity) ==> <a href="https://github.com/Renoadith/Projek-Mikrokontroller/blob/main/Program/AUDIO%20rekam">File audio</a>  
+Link audio (HxD) ==> <a href="https://github.com/Renoadith/Projek-Mikrokontroller/blob/main/Program/AUDIO%20rekam.raw">File audio</a>  
 Link video tutorial audio ==> <a href="https://youtu.be/W0XZ7WrG6vU">Video audio</a>  
 
 ---
@@ -148,5 +150,9 @@ Melakukan demonstrasi alat kepada pihak terkait, menunjukkan fungsionalitas dan 
 
 #### PROGRAM
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/134272498/a46f1dc0-c522-45f4-8f2b-67e0cfc6f79f)
+
+---
+
+## Flayer
 
 
