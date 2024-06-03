@@ -12,6 +12,7 @@ Proyek ini bertujuan mengembangkan alat pendeteksi kebisingan berbasis sensor un
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/a25a9c53-3324-40b0-a35b-9acb642eea06)
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/0af3ba8b-6d2c-47d8-b7cf-e3afe879404c)
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/ee1e3859-b8b6-4b1e-9edf-ab9528a42f78)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/blob/0e8d3b9023945dfbeb9ea2a4163f9e18a05f2541/dokumentasi/WhatsApp%20Image%202024-06-03%20at%204.33.31%20PM.jpeg)
   
 Desain 3D di atas merupakan gambaran akhir alat yang mencakup ukuran, posisi komponen, dan file perangkat lunak untuk pencetakan 3D. Desain ini dibuat menggunakan Fusion 360 karena kemudahan penggunaan dan kemampuan desainer. Fusion 360 memudahkan penentuan posisi komponen dengan presisi tinggi dan menawarkan fitur simulasi serta analisis struktural, memastikan alat sesuai spesifikasi teknis. Perangkat lunak ini juga memungkinkan evaluasi kekuatan dan daya tahan alat sebelum pencetakan, mengurangi risiko kesalahan dan memastikan kualitas. Dengan Fusion 360, desainer dapat mengoptimalkan tata letak komponen sesuai rancangan awal. Pemilihan Fusion 360 didasarkan pada efisiensi dan kemampuan desainer, membuat proses desain lebih cepat dan akurat. Desain akhir diekspor dalam format kompatibel dengan berbagai printer 3D, memastikan pencetakan mudah dan cepat. Penggunaan Fusion 360 memastikan desain 3D alat ini akurat, optimal, dan mendukung kelancaran proses produksi.
   
@@ -74,12 +75,12 @@ Link video simulasi ==> <a href="https://youtu.be/cqOJ23cZhoI?si=dtuSKsLPAU53A1S
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/8d4a1f71-460a-4c50-ac2c-bce17f3a6d7a)  
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/1ba611ad-98a0-4d11-b012-2c81b5424951)  
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/6534751c-41b9-42c2-aa92-39730f7b03ba)  
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/blob/22beea1315c3989351b3b410121d68c0fc71a857/dokumentasi/PCB.jpg)
   
 Perangkaian skematik pada proyek ini adalah tahap desain untuk mencetak PCB, dibuat menggunakan perangkat lunak Eagle. Pemilihan Eagle didasarkan pada kemudahan penggunaan dan keahlian desainer, serta kebiasaan penggunaan dalam perkuliahan. Eagle memungkinkan perancangan skematik dengan presisi tinggi dan memudahkan proses routing jalur PCB. Dengan antarmuka intuitif dan berbagai alat bantu desain, perangkat lunak ini memastikan semua komponen terhubung dengan benar dan layout PCB dioptimalkan untuk kinerja terbaik. Desain skematik yang dihasilkan kemudian diekspor untuk pencetakan PCB, memastikan semua jalur dan koneksi sesuai spesifikasi. Dengan Eagle, kami dapat menghasilkan desain yang efisien, akurat, dan siap untuk tahap produksi.
   
 Link skematik ==> <a href="https://github.com/Renoadith/Projek-Mikrokontroller/blob/main/Schematik/Alat%20pendeteksi%20kebisingan.sch">File skematik</a>  
 Link board ==> <a href="https://github.com/Renoadith/Projek-Mikrokontroller/blob/main/Schematik/Alat%20pendeteksi%20kebisingan.brd">File board</a>  
-Link PCB jadi ==> <a href="https://github.com/Renoadith/Projek-Mikrokontroller/blob/22beea1315c3989351b3b410121d68c0fc71a857/dokumentasi/PCB.jpg">PCB jadi</a>  
 Link video tutorial skematik ==> <a href="https://youtu.be/qFakJmJQMaU?feature=shared">Video skematik</a>  
 
 ---
