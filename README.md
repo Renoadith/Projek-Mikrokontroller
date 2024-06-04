@@ -18,7 +18,7 @@ Desain 3D di atas merupakan gambaran akhir alat yang mencakup ukuran, posisi kom
   
 Link desain 3D (bagian dalam) ==> <a href="Desain/bagian dalam.stl">File desain 3D (bagian dalam)</a>  
 Link desain 3D (bagian luar) ==> <a href="Desain/bagian luar.stl">File desain 3D (bagian luar)</a>  
-Link video tutorial desain 3D ==> <a href="https://youtu.be/MYmIewiCJK0?si=Z88mito5nbMwKOmb">Video desain 3D</a>  
+Link video tutorial desain 3D ==> <a href="https://youtu.be/fg9aguebhW4?si=BZ69bgbV-qRVRXbO">Video desain 3D</a>  
 Link Thingiverse ==> <a href="https://www.thingiverse.com/thing:6647773">File Thingiverse</a>
 
 ---
