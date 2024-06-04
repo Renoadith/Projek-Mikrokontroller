@@ -84,7 +84,10 @@ Link board ==> <a href="https://github.com/Renoadith/Projek-Mikrokontroller/blob
 Link video tutorial skematik ==> <a href="https://youtu.be/qFakJmJQMaU?feature=shared">Video skematik</a>  
 
 ---
-## Sistem Audio
+## Sistem Audio dan Program
+
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/0296e684-a40e-4c52-bc1d-ec648f013351)  
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/a889883a-2f31-44ec-94b8-14c6c4e7ded7)
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/31788840-6017-4436-a93f-9abfd1e0c013)
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/fb3e670c-983c-4cfe-8e1b-df53758e2d61)
   
