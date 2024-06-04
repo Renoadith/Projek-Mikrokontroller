@@ -153,7 +153,12 @@ Melakukan demonstrasi alat kepada pihak terkait, menunjukkan fungsionalitas dan 
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/134272498/07fcd489-b062-4423-ad67-18b8ef51b040)
 
 #### PROGRAM
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/134272498/a46f1dc0-c522-45f4-8f2b-67e0cfc6f79f)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/134272498/a46f1dc0-c522-45f4-8f2b-67e0cfc6f79f)  
+
+#### DEMO  
+https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/0e1aa3ef-048c-4351-b844-efcf6feff3ec
+
+
 
 ---
 
