@@ -155,8 +155,10 @@ Melakukan demonstrasi alat kepada pihak terkait, menunjukkan fungsionalitas dan 
 #### PROGRAM
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/134272498/a46f1dc0-c522-45f4-8f2b-67e0cfc6f79f)  
 
-#### DEMO  
+#### DEMO VIDEO IKLAN 
 https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/a5bf39f3-afec-4e52-a946-437841fa6f4a  
+
+Link lebih jelas ==> <a href="https://youtu.be/7oVi07qgA7E?si=QuQN2IhZiEXbEfBq">Video iklan</a>
 
 ---
 
