@@ -156,12 +156,11 @@ Melakukan demonstrasi alat kepada pihak terkait, menunjukkan fungsionalitas dan 
 ![image](https://github.com/Renoadith/Projek-Mikrokontroller/assets/134272498/a46f1dc0-c522-45f4-8f2b-67e0cfc6f79f)  
 
 #### DEMO  
-https://github.com/Renoadith/Projek-Mikrokontroller/assets/168979944/0e1aa3ef-048c-4351-b844-efcf6feff3ec
-
-
+https://github.com/Renoadith/Projek-Mikrokontroller/assets/168974067/a5bf39f3-afec-4e52-a946-437841fa6f4a  
 
 ---
 
 ## Flayer
 
-![image](https://github.com/Renoadith/Projek-Mikrokontroller/blob/561b6ec2f84b6a9fe761c6ef16c30d173051581d/Desain/Flayer.jpeg)
+![image](https://github.com/Renoadith/Projek-Mikrokontroller/blob/561b6ec2f84b6a9fe761c6ef16c30d173051581d/Desain/Flayer.jpeg)  
+Link penjelasan lebih lengkap ==> <a href="https://youtu.be/Oe4GmpdsbrU">Video presentasi</a>
